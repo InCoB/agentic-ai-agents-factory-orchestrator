@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Project Documentation
+    url: https://github.com/InCoB/agentic-ai-agents-factory-orchestrator/tree/main/Documentation
+    about: Check our documentation before creating an issue
+  - name: Examples
+    url: https://github.com/InCoB/agentic-ai-agents-factory-orchestrator/tree/main/Examples
+    about: View example implementations and usage patterns 
